@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cashpally-admin/static/css/main.d30a5d8d.chunk.css",
+    "main.js": "/cashpally-admin/static/js/main.62ff593e.chunk.js",
+    "main.js.map": "/cashpally-admin/static/js/main.62ff593e.chunk.js.map",
+    "runtime-main.js": "/cashpally-admin/static/js/runtime-main.83288a3b.js",
+    "runtime-main.js.map": "/cashpally-admin/static/js/runtime-main.83288a3b.js.map",
+    "static/css/2.66cbc4d4.chunk.css": "/cashpally-admin/static/css/2.66cbc4d4.chunk.css",
+    "static/js/2.7a888d41.chunk.js": "/cashpally-admin/static/js/2.7a888d41.chunk.js",
+    "static/js/2.7a888d41.chunk.js.map": "/cashpally-admin/static/js/2.7a888d41.chunk.js.map",
+    "index.html": "/cashpally-admin/index.html",
+    "static/css/2.66cbc4d4.chunk.css.map": "/cashpally-admin/static/css/2.66cbc4d4.chunk.css.map",
+    "static/css/main.d30a5d8d.chunk.css.map": "/cashpally-admin/static/css/main.d30a5d8d.chunk.css.map",
+    "static/js/2.7a888d41.chunk.js.LICENSE.txt": "/cashpally-admin/static/js/2.7a888d41.chunk.js.LICENSE.txt",
+    "static/media/theme.scss": "/cashpally-admin/static/media/typicons.d45316f6.ttf",
+    "static/media/layout-1.624ded4a.jpg": "/cashpally-admin/static/media/layout-1.624ded4a.jpg",
+    "static/media/layout-2.8582036f.jpg": "/cashpally-admin/static/media/layout-2.8582036f.jpg",
+    "static/media/layout-3.6b1b041b.jpg": "/cashpally-admin/static/media/layout-3.6b1b041b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83288a3b.js",
+    "static/css/2.66cbc4d4.chunk.css",
+    "static/js/2.7a888d41.chunk.js",
+    "static/css/main.d30a5d8d.chunk.css",
+    "static/js/main.62ff593e.chunk.js"
+  ]
+}
